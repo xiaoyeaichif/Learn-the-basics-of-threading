@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01两个线程交替打印100以内的奇偶数.cpp" />
+    <ClCompile Include="01thread的使用.cpp" />
+    <ClCompile Include="21生产者消费者模型.cpp" />
+    <ClCompile Include="20两个线程交替打印100以内的奇偶数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

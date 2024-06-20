@@ -47,7 +47,7 @@ void oushu_() {
 }
 
 // 主函数
-int main() {
+int main_thread20() {
     // 创建两个线程
     std::thread thread1(jishu_);
     std::thread thread2(oushu_);
